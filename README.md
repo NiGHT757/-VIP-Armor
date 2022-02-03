@@ -14,10 +14,10 @@ Plugin functionality is disabled on **awp_** , **fy_** , **35hp _** , **aim_** m
     - **++100** will give +100 armor on spawn.
 3. Open **vip_modules.phrases.txt** and add
 ```cpp
-    "Armor"
+    "Money"
     {
-        "ru"        "Бронь"
-        "en"        "Armor"
-        "fi"        "Suojaliivi"
+        "ru"        "Дополнительная сумма"
+        "en"        "Extra money"
+        "de"        "Extrageld"
     }
 ```
